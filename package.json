@@ -10,10 +10,12 @@
   "author": "monalisha patra",
   "license": "ISC",
   "dependencies": {
-    "cohere-ai": "^7.15.4",
+    "cohere-ai": "^7.17.1",
     "colors": "^1.4.0",
+    "cors": "^2.8.5",
     "deepseek": "^0.0.2",
-    "dotenv": "^16.4.7",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
     "openai": "^4.85.3",
     "readline-sync": "^1.4.10"
   }
